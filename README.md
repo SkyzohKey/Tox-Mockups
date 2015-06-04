@@ -3,6 +3,7 @@ My differents mockups for Tox
 
 # Last mockups
 ## Register window
+I tried to redesign the register window and I proud of what my brain made me did :3
 ### Black version
 ![Register page](https://rawgit.com/FishTFM/Tox-Mockups/master/svg/register.svg)  
 You can find the `.svg` [by following this link](https://github.com/FishTFM/Tox-Mockups/blob/master/svg/register.svg)  
