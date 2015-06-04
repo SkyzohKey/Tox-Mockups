@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="133.33824"
-     inkscape:cy="245.05068"
+     inkscape:zoom="8"
+     inkscape:cx="323.83036"
+     inkscape:cy="105.05068"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -146,7 +146,7 @@
          y="696.52216"
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f2f2f2;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">qTox</tspan></text>
     <rect
-       style="fill:#ececec;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        id="rect3865"
        width="200"
        height="50"
@@ -256,7 +256,7 @@
          y="722.36218"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Free and open-source instant messaging</tspan></text>
     <rect
-       style="fill:#ececec;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        id="rect4267"
        width="400"
        height="420"
@@ -383,7 +383,7 @@
          y="1026.4625"
          id="tspan3970">_________________________</tspan></text>
     <rect
-       style="fill:#1c1c1c;fill-opacity:1"
+       style="fill:#414141;fill-opacity:1"
        id="rect3974"
        width="15"
        height="15"
